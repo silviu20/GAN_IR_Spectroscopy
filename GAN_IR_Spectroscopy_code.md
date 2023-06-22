@@ -1,7 +1,7 @@
 # GAN_IR_Spectroscopy
 
 """
-Geneerative Adversarial Networks 
+Generative Adversarial Networks 
 code to augment data for Infrared Spectroscopy 
 """
 
