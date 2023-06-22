@@ -1,1 +1,1 @@
-# GAN_IR_Spectroscopy
+# REadme
