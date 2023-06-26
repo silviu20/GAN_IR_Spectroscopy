@@ -20,7 +20,7 @@ from sklearn import metrics
 import pandas as pd 
 
 # Read data
-data_path = '/home/silviu/Desktop/3. Mid infrared spectrum/Data/Datasets/dataset classified according to ner >0.6 wt% as 1/Merged data/Original/Original+dissolved_glucose+wood.csv'
+data_path = ''
 df = pd.read_csv(data_path)
 df = df.drop('Unnamed: 0', axis=1)
 df = df.sample(frac=1).reset_index(drop=True)
